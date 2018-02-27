@@ -111,9 +111,3 @@ if(key.length()==plaintext.length()){cout<<"One-Time Pad: YES";}
 else {cout<<"One-Time Pad: NO";}
 }
 
-int main(){
-	polyAlphabeticCiphers();
-	//HillCipher();
-	
-	//system("pause");
-return 0;}
