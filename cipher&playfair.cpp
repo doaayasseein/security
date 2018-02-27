@@ -136,8 +136,3 @@ void playfair(){
 }
 
 	
-int main(){
-	playfair();
-system("pause");
-	return 0;
-	}
