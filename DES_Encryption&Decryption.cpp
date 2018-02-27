@@ -607,9 +607,3 @@ void Decryption(){
 	cout<<tempInput<<endl;
 
 }
-int main(){
-	Decryption();
-   // Full_DES();
-	system("pause");
-	return 0;
-}
