@@ -1,2 +1,1 @@
-# security-projects-
-code for the encryption  techniques using c++
+Implementation of some Cyber security encryption and decryption techniques.
